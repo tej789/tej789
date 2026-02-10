@@ -20,7 +20,6 @@
 - React.js
 - HTML, CSS, JavaScript
 - Tailwind CSS
-- Bootstrap
 
 ### Backend
 - Node.js
